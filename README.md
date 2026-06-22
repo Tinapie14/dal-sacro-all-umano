@@ -1,7 +1,7 @@
 # Dal sacro all'umano: la Storia dell'Arte letta in chiave digitale
 
 ## DOI
-(https://doi.org/10.5281/zenodo.20795019)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20795019.svg)](https://doi.org/10.5281/zenodo.20795019)
 
 ## Descrizione
 In questo progetto effettuiamo un'analisi dei dati (esplorativa e esplicativa) di un dataset storico-artistico, contenente opere d'arte realizzate tra il 1200 e il 2000. 
